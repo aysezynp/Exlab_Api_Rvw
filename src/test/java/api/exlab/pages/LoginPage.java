@@ -1,6 +1,5 @@
 package api.exlab.pages;
 
-import api.exlab.requests.ExlabRequest;
 import api.exlab.utilities.ConfigurationReader;
 import api.exlab.utilities.Driver;
 import org.openqa.selenium.By;
